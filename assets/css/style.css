@@ -113,7 +113,7 @@ span{
 
 .iphone-12 {
   height: 100%;
-  background-image: url("/assets/img/a5.jpg");
+  background-image: url("/images/a5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;   
@@ -138,7 +138,7 @@ span{
 .Apple-Fitness {
   height: 100%;
   width: 100%;
-  background-image: url("/assets/img/apple-fitness.jpg");
+  background-image: url("/images/apple-fitness.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;   
@@ -156,7 +156,7 @@ span{
 .iphone-12-pro { 
   height: 90%;
   min-height: 100%;
-  background-image: url("/assets/Untitled-1.jpg");
+  background-image: url("/images/Untitled-1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -165,7 +165,7 @@ span{
 .Apple-Fitness { 
   height: 110%;
   min-height: 100%;
-  background-image: url("/assets/img/apple-fitness.jpg");
+  background-image: url("/images/apple-fitness.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
